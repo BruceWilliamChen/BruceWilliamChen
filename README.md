@@ -6,4 +6,4 @@
 - 🎮 📺 🥾 I spend free time playing video games, watching TV, and hanging out with friends for outdoor fun.
 - 🎼 I am currently learning some music composing!
 - 🍵 Fun fact:
-    - I am a content created on Bilili [@That Bruce](https://space.bilibili.com/8740483)
+    - I am a content created on Bilili [@ThatBruceChen](https://space.bilibili.com/8740483)
