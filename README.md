@@ -2,7 +2,7 @@
 
 - 🖱️ ⌨️ I’m a software engineer and mainly working on backend development.
 - 🇺🇸 I most recently moved from Massachusetts and currently live in the bay area.
-- 💻 I have worked with Java, Python, Django, Node.js, Typescript, MATLAB, PostgreSQL.
+- 💻 I mainly work with Java, Python, Django, Node.js, Typescript, MATLAB, PostgreSQL.
 - 🎮 📺 🥾 I spend free time playing video games, watching TV, and hanging out with friends for outdoor fun.
 - 🎼 I am currently learning some music composing!
 - 🍵 Fun fact:
