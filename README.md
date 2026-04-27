@@ -1,5 +1,24 @@
-### Hi there! You just caught a wild pokemon! 😸
+# Hi, I'm Bruce 👋
 
-- 🖱️ ⌨️ I’m a fullstack && C++ software engineer and I work on computational softwares.
-- 🇺🇸 I live in in Massachusetts.
-- 💻 I mainly work with C++, JavaScript, MATLAB, Python, PostgreSQL.
+Senior Software Engineer with 8+ years of experience in full-stack development —
+spanning UI, backend services architecture, software design patterns, and database design.
+
+Currently at **MathWorks** on the Simulink Test team. In the era of AI, I'm focused on
+designing agentic workflows that bring real value to engineering — not just automation,
+but AI that thinks alongside engineers.
+
+---
+
+## 🔧 What I work with
+
+**Languages & Frameworks** — C++, JavaScript (Node.js), Java, Python (Django)  
+**Databases** — PostgreSQL  
+**AI & Agentic Tooling** — Claude Code, skill design, meta-workflow scaffolding  
+**Platforms** — Windows, Linux  
+
+---
+
+## 🌱 Outside the terminal
+
+🏊 Regular swimmer &nbsp;·&nbsp; 🎬 Chronic moviegoer &nbsp;·&nbsp; ✍️ Novelist (for myself) &nbsp;·&nbsp; 🫧 Perfume collector                                                                                                          
+  - 📧 brucewilliam1994@gmail.com              
