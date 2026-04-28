@@ -1,5 +1,4 @@
 # Hi, I'm Bruce 👋
-## Check out my personal site [Visit Bruce's Terminal](https://brucewilliamchen.github.io/WhoIsBruce/)
 
 Senior Software Engineer with 8+ years of experience in full-stack development —
 spanning UI, backend services architecture, software design patterns, and database design.
@@ -7,6 +6,12 @@ spanning UI, backend services architecture, software design patterns, and databa
 Currently at **MathWorks** on the Simulink Test team. In the era of AI, I'm focused on
 designing agentic workflows that bring real value to engineering — not just automation,
 but AI that thinks alongside engineers.
+
+---
+
+## 🌐 Check out my personal site
+
+[Visit Bruce's Terminal](https://brucewilliamchen.github.io/WhoIsBruce/)
 
 ---
 
