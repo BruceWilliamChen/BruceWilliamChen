@@ -1,4 +1,5 @@
 # Hi, I'm Bruce 👋
+## Check out my personal site [Visit Bruce's Terminal](https://brucewilliamchen.github.io/WhoIsBruce/)
 
 Senior Software Engineer with 8+ years of experience in full-stack development —
 spanning UI, backend services architecture, software design patterns, and database design.
