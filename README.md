@@ -20,7 +20,7 @@ but AI that thinks alongside engineers.
 **Languages & Frameworks** — C++, JavaScript (Node.js), Java, Python (Django)  
 **Databases** — PostgreSQL  
 **AI & Agentic Tooling** — Claude Code, skill design, meta-workflow scaffolding  
-**Platforms** — Windows, Linux  
+**Model Based Design** — MATLAB, Simulink
 
 ---
 
